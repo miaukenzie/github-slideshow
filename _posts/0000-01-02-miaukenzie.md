@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I think that matcha lattes are really good 
+"u almost made me drop my croissant"
 Coconut milk is the best pair in my opinion
